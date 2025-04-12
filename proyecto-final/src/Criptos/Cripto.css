@@ -1,0 +1,15 @@
+.card-cripto {
+  color: black;
+  border: 1px solid skyblue;
+  border-left: 6px solid skyblue;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.info {
+  color: rgb(191, 191, 191);
+}
+
+.label {
+  color: skyblue;
+}
